@@ -1,7 +1,7 @@
 # NN_EXP-1
 <H3>NAME: ROSHINI A</H3>
 <H3>REGISTER NO: 212224230233</H3>
-<H3>DATE : 03.08.2026</H3>
+<H3>DATE : 26.10.2026</H3>
 <H1>EX. NO.1Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
